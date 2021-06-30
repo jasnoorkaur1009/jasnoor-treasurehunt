@@ -17,5 +17,5 @@ text("Hint: Performs a particular task !!", 700,170)
 fill("white")
 text("A B T D A S E A", 100,300)
 fill("lightblue")
-text("Hint: Always changing, not constant !!", 100,320)
+text("Hint: stores all information !!", 100,320)
 }
